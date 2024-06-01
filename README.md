@@ -1,6 +1,3 @@
 #JavaDice
 
-
-
-https://github.com/TheDeGeO/JavaDice/assets/86985098/909ac57f-3114-46a0-a0d0-9f4033e350b5
-
+![javadice](https://github.com/TheDeGeO/JavaDice/assets/86985098/3d656211-a780-4a48-b728-9572236f8af8)
